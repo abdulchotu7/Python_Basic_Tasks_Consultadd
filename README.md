@@ -5,20 +5,20 @@ This repository contains solutions to **10 Python assignments** covering fundame
 ## 📂 Folder Structure
 ```
 📦 Python-Learning-Assignments
-├── 📁 01_Basics
+├── 📁 01_Core_Syntax
 ├── 📁 02_Control_Flow
-├── 📁 03_Functions_Modular_Code
+├── 📁 03_Functions
 ├── 📁 04_Data_Structures
 ├── 📁 05_File_Handling
 ├── 📁 06_OOP
 ├── 📁 07_Advanced_Topics
-├── 📁 08_Debugging_Best_Practices
-├── 📁 09_Virtual_Environments
+├── 📁 08_Debugging
+├── 📁 09_Virtual_Env
 ├── 📁 10_Final_Challenge
 └── README.md
 ```
 
-## 🔥 Topics Covered
+##  Topics Covered
 Each folder contains assignments focusing on different Python concepts:
 
 ### 1️⃣ Python Basics and Core
@@ -65,7 +65,7 @@ Each folder contains assignments focusing on different Python concepts:
 1. Clone this repository:
    ```sh
    git clone https://github.com/yourusername/Python-Learning-Assignments.git
-   cd Python-Basics-Training
+   cd Python_Basics_Training
    ```
 2. Navigate to the assignment folder:
    ```sh
@@ -75,12 +75,6 @@ Each folder contains assignments focusing on different Python concepts:
    ```sh
    python3 filename.py
    ```
-
-## 🛠 Setting Up a Virtual Environment (For Assignment 9)
-```sh
-python -m venv myenv
-source myenv/bin/activate  # On Windows, use `myenv\Scripts\activate`
-pip install -r requirements.txt
 ```
 
 
