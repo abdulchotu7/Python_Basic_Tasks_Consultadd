@@ -75,6 +75,6 @@ Each folder contains assignments focusing on different Python concepts:
    ```sh
    python3 filename.py
    ```
-```
+
 
 
